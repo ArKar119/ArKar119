@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=100&lines=👋+Hello%2C+I'm+Ar+Kar+Hein;💻+Software+Developer;🎮+Future+Game+Developer;⚡+Welcome+To+My+Cyber+Space" alt="Ar Kar Hein Header" />
+  <!-- Glowing Cyber Dark Blue Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001220&secondaryColor=004586&height=250&section=header&text=Hello,%20I'm%20Ar%20Kar%20Hein%20👋&fontSize=45&animation=twinkling&fontColor=00d2ff" width="100%" />
 </div>
 
 <div align="center">
   <h3>⚡ Software Developer | 🎮 Future Game Developer | 🇯🇵 Japanese Learner</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Magway,%20Myanmar-0055ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Japanese-N3%20Level-00d2ff?style=for-the-badge&logo=duolingo&logoColor=white" />
+    <img src="https://img.shields.io/badge/University-Magway%20University-00d2ff?style=for-the-badge&logo=readme&logoColor=black" />
+    <img src="https://img.shields.io/badge/Japanese-N3%20Level-007acc?style=for-the-badge&logo=duolingo&logoColor=white" />
   </p>
 </div>
 
@@ -17,7 +19,11 @@
 <table align="center" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <p>🎓 <b>Education:</b> Completed IT courses at <b style="color: #00d2ff;">Golden Mission Magway Education Center</b></p>
+      <p>🎓 <b>Education & Academics:</b></p>
+      <ul>
+        <li>Attending the first year in the <b>E-Major class of Magway University</b>.</li>
+        <li>Completed IT courses at <b style="color: #00d2ff;">Golden Mission Magway Education Center</b>.</li>
+      </ul>
       <p>🏆 <b>Certifications:</b></p>
       <ul>
         <li><b>ITPEC</b> Information Technology Passport (IP)</li>
@@ -26,16 +32,18 @@
       <p>🎮 <b>Ultimate Goal:</b> To become a <b>Professional Game Developer</b> by creating immersive experiences that connect players globally.</p>
     </td>
     <td width="45%" valign="center" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&height=120&lines=Exploring+Lua...;Mastering+Roblox+Studio...;Future+Unity+%26+Unreal+Dev!;Building+The+Future+🎮" alt="Typing SVG" />
+      <!-- Fixed Language Stats Component with Glowing Dark Theme -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArKar119&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&bg_color=001220" alt="Top Langs" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Core Tech Stack (Glowing Blue Grid)
+## 🛠️ Tech Stack & Learning Path
 
-<p align="center">
+### 💻 Programming Languages & Web Core
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -44,16 +52,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🌱 Currently Advancing In
-<p align="center">
+### 🌱 Currently Exploring & Customizing
+<p align="left">
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox_Studio-002FA7?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/Game_Dev-Fundamentals-00d2ff?style=for-the-badge&logo=gamecontroller&logoColor=white" />
   <img src="https://img.shields.io/badge/Japanese_N3-Learning-ff69b4?style=for-the-badge" />
 </p>
 
-### 🎯 Next Generation Upgrades
-<p align="center">
+### 🎯 Future Learning Horizon
+<p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -106,9 +114,10 @@
 
 ---
 
-## 📊 Live Metrics Tracker
+## 📊 Live System Activity & Streak Analytics
 
 <div align="center">
+  <!-- Dynamic Glowing Tracker System -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArKar119&theme=tokyonight&hide_border=true&stroke=00d2ff&background=001220&ring=00d2ff&fire=00d2ff" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=ArKar119&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&bg_color=001220" alt="GitHub Stats" />
@@ -118,5 +127,5 @@
 
 <div align="center">
   <h3><i style="color: #00d2ff;">"Every expert was once a beginner."</i></h3>
-  <p>💻 Welcome to my control center.</p>
+  <p>💻 Thank you for checking out my cyber space!</p>
 </div>
