@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Glowing Cyber Dark Blue Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001220&secondaryColor=004586&height=250&section=header&text=Hello,%20I'm%20Ar%20Kar%20Hein%20👋&fontSize=45&animation=twinkling&fontColor=00d2ff" width="100%" />
+  <!-- Cyber Black Header Banner with Dark Blue Text -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&secondaryColor=001220&height=250&section=header&text=Hello,%20I'm%20Ar%20Kar%20Hein%20👋&fontSize=45&animation=twinkling&fontColor=004586" width="100%" />
 </div>
 
 <div align="center">
@@ -49,6 +49,88 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/J2SE-007396?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🌱 Currently Exploring & Customizing
+<p align="left">
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-002FA7?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Dev-Fundamentals-00d2ff?style=for-the-badge&logo=gamecontroller&logoColor=white" />
+  <img src="https://img.shields.io/badge/Japanese_N3-Learning-ff69b4?style=for-the-badge" />
+</p>
+
+### 🎯 Future Learning Horizon
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-E65226?style=for-the-badge&logo=opengl&logoColor=white" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🚨 **The Scammer Alert** | A platform that helps users identify scammers through collected reports and evidence. | `HTML` `PHP` |
+| 🎴 **PokeMemo** | A Pokémon-themed memory card game designed for users of all ages. | `JavaScript` `PHP` `HTML` `CSS` |
+| 🌌 **Cosmic Blog** | A blog platform with complete content management features for both users and administrators. | `PHP` `MySQL` `HTML` `CSS` |
+| ⚽ **Online Stadium Renting** | A booking platform allowing users to check stadium availability and reserve football or futsal fields online. | `Java` `J2SE` |
+| 🐍 **Earth Creatures** | A real-world blogging platform focused on snake and insect species with complete community interactions. | `J2EE` `HTML` `CSS` `MySQL` |
+
+---
+
+## 🎬 Creative Skills & TikTok Stats
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎥 Video Editing</h4>
+      <ul>
+        <li>CapCut (Proficient)</li>
+        <li>Alight Motion (Learning)</li>
+        <li>Anime Edit Creator</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 TikTok Analytics</h4>
+      <ul>
+        <li>🔥 <b style="color:#00d2ff;">20.5K+</b> Total Likes</li>
+        <li>👥 <b style="color:#00d2ff;">256+</b> Followers</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌎 Languages
+
+* **🇲🇲 Burmese:** Native
+* **🇬🇧 English:** Conversational & Technical
+* **🇯🇵 Japanese:** N3 Learner *(N4 Passed)*
+
+---
+
+## 📊 Live System Activity & Streak Analytics
+
+<div align="center">
+  <!-- Dynamic Glowing Tracker System -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArKar119&theme=tokyonight&hide_border=true&stroke=00d2ff&background=001220&ring=00d2ff&fire=00d2ff" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArKar119&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&bg_color=001220" alt="GitHub Stats" />
+</div>
+
+---
+
+<div align="center">
+  <h3><i style="color: #00d2ff;">"Every expert was once a beginner."</i></h3>
+  <p>💻 Thank you for checking out my cyber space!</p>
+</div>  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/J2SE-007396?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
