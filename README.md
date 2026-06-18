@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Neon Glowing Cyber Blue Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=matrix&color=001220&bgColor=001220&height=250&section=header&text=Hello,%20I'm%20Ar%20Kar%20Hein%20👋&fontSize=45&animation=fadeIn&fontColor=00d2ff" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=100&lines=👋+Hello%2C+I'm+Ar+Kar+Hein;💻+Software+Developer;🎮+Future+Game+Developer;⚡+Welcome+To+My+Cyber+Space" alt="Ar Kar Hein Header" />
 </div>
 
 <div align="center">
@@ -27,15 +26,14 @@
       <p>🎮 <b>Ultimate Goal:</b> To become a <b>Professional Game Developer</b> by creating immersive experiences that connect players globally.</p>
     </td>
     <td width="45%" valign="center" align="center">
-      <!-- Animated Typing Game Developer Concept Graphic -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Exploring+Lua...;Mastering+Roblox+Studio...;Future+Unity+%26+Unreal+Dev!;Building+The+Future+🎮" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&height=120&lines=Exploring+Lua...;Mastering+Roblox+Studio...;Future+Unity+%26+Unreal+Dev!;Building+The+Future+🎮" alt="Typing SVG" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Core Tech Stack (Glowing Matrix)
+## 🛠️ Core Tech Stack (Glowing Blue Grid)
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -111,7 +109,6 @@
 ## 📊 Live Metrics Tracker
 
 <div align="center">
-  <!-- Glowing Cyber Dashboard Elements -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArKar119&theme=tokyonight&hide_border=true&stroke=00d2ff&background=001220&ring=00d2ff&fire=00d2ff" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=ArKar119&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&bg_color=001220" alt="GitHub Stats" />
