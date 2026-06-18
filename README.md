@@ -23,6 +23,7 @@
       <ul>
         <li>Attending the first year in the <b>E-Major class of Magway University</b>.</li>
         <li>Completed IT courses at <b style="color: #00d2ff;">Golden Mission Magway Education Center</b>.</li>
+        <li>Learning Japanese N3 Level</li>
       </ul>
       <p>🏆 <b>Certifications:</b></p>
       <ul>
@@ -109,8 +110,8 @@
 ## 🌎 Languages
 
 * **🇲🇲 Burmese:** Native
-* **🇬🇧 English:** Conversational & Technical
-* **🇯🇵 Japanese:** N3 Learner *(N4 Passed)*
+* **🇬🇧 English:** Advanced Level
+* **🇯🇵 Japanese:** N3 Learner *(N4 Nat-Test Passed)*
 
 ---
 
