@@ -1,215 +1,241 @@
 <div align="center">
-  <!-- Cyber Black Header Banner with Dark Blue Text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&secondaryColor=001220&height=250&section=header&text=Hello,%20I'm%20Ar%20Kar%20Hein%20👋&fontSize=45&animation=twinkling&fontColor=004586" width="100%" />
-</div>
 
-<div align="center">
-  <h3>⚡ Software Developer | 🎮 Future Game Developer | 🇯🇵 Japanese Learner</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Location-Magway,%20Myanmar-0055ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/University-Magway%20University-00d2ff?style=for-the-badge&logo=readme&logoColor=black" />
-    <img src="https://img.shields.io/badge/Japanese-N3%20Level-007acc?style=for-the-badge&logo=duolingo&logoColor=white" />
-  </p>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,40:001220,100:004586&text=Ar%20Kar%20Hein&fontColor=00d2ff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Future%20Game%20Developer&descAlignY=60&descSize=20"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;ITPEC+IP+%26+FE+Certified;Future+Professional+Game+Developer;Java+%7C+PHP+%7C+JavaScript+Developer;Learning+Lua+and+Roblox+Studio;Japanese+N3+Learner;Building+Projects+One+Step+At+A+Time"/>
 
-## 🚀 About Me
+<br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <p>🎓 <b>Education & Academics:</b></p>
-      <ul>
-        <li>Attending the first year in the <b>E-Major class of Magway University</b>.</li>
-        <li>Completed IT courses at <b style="color: #00d2ff;">Golden Mission Magway Education Center</b>.</li>
-      </ul>
-      <p>🏆 <b>Certifications:</b></p>
-      <ul>
-        <li><b>ITPEC</b> Information Technology Passport (IP)</li>
-        <li><b>ITPEC</b> Fundamental Information Technology Engineer Examination (FE)</li>
-      </ul>
-      <p>🎮 <b>Ultimate Goal:</b> To become a <b>Professional Game Developer</b> by creating immersive experiences that connect players globally.</p>
-    </td>
-    <td width="45%" valign="center" align="center">
-      <!-- Language Stats Component with Glowing Dark Theme -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArKar119&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&bg_color=001220" alt="Top Langs" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=ArKar119&style=for-the-badge&color=00d2ff"/>
 
----
-
-## 🛠️ Tech Stack & Learning Path
-
-### 💻 Programming Languages & Web Core
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/J2SE-007396?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🌱 Currently Exploring & Customizing
-<p align="left">
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox_Studio-002FA7?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Dev-Fundamentals-00d2ff?style=for-the-badge&logo=gamecontroller&logoColor=white" />
-  <img src="https://img.shields.io/badge/Japanese_N3-Learning-ff69b4?style=for-the-badge" />
-</p>
-
-### 🎯 Future Learning Horizon
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/GLSL-E65226?style=for-the-badge&logo=opengl&logoColor=white" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🚨 **The Scammer Alert** | A platform that helps users identify scammers through collected reports and evidence. | `HTML` `PHP` |
-| 🎴 **PokeMemo** | A Pokémon-themed memory card game designed for users of all ages. | `JavaScript` `PHP` `HTML` `CSS` |
-| 🌌 **Cosmic Blog** | A blog platform with complete content management features for both users and administrators. | `PHP` `MySQL` `HTML` `CSS` |
-| ⚽ **Online Stadium Renting** | A booking platform allowing users to check stadium availability and reserve football or futsal fields online. | `Java` `J2SE` |
-| 🐍 **Earth Creatures** | A real-world blogging platform focused on snake and insect species with complete community interactions. | `J2EE` `HTML` `CSS` `MySQL` |
-
----
-
-## 🎬 Creative Skills & TikTok Stats
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎥 Video Editing</h4>
-      <ul>
-        <li>CapCut (Proficient)</li>
-        <li>Alight Motion (Learning)</li>
-        <li>Anime Edit Creator</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 TikTok Analytics</h4>
-      <ul>
-        <li>🔥 <b style="color:#00d2ff;">20.5K+</b> Total Likes</li>
-        <li>👥 <b style="color:#00d2ff;">256+</b> Followers</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌎 Languages
-
-* **🇲🇲 Burmese:** Native
-* **🇬🇧 English:** Conversational & Technical
-* **🇯🇵 Japanese:** N3 Learner *(N4 Passed)*
-
----
-
-## 📊 Live System Activity & Streak Analytics
-
-<div align="center">
-  <!-- Dynamic Glowing Tracker System -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArKar119&theme=tokyonight&hide_border=true&stroke=00d2ff&background=001220&ring=00d2ff&fire=00d2ff" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArKar119&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&bg_color=001220" alt="GitHub Stats" />
 </div>
 
 ---
 
+# 👨‍💻 About Me
+
+```yaml
+Name: Ar Kar Hein
+Country: Myanmar 🇲🇲
+Location: Magway
+Role: Software Developer
+Dream Career: Professional Game Developer
+University: Magway University
+Education Center: Golden Mission Magway Education Center
+
+Achievements:
+  - ITPEC Information Technology Passport (IP)
+  - ITPEC Fundamental Information Technology Engineer (FE)
+  - Japanese N4 Passed
+  - Japanese N3 Learner
+
+Current Focus:
+  - Lua Programming
+  - Roblox Studio
+  - Game Development
+  - Software Engineering
+```
+
+---
+
+# 🚀 My Journey
+
+I am an aspiring Software Developer from Myanmar who enjoys building practical software systems and exploring game development.
+
+My ultimate goal is to become a professional Game Developer capable of creating immersive and meaningful gaming experiences enjoyed by players worldwide.
+
+Currently, I am learning **Lua** and experimenting with **Roblox Studio** while strengthening my software engineering foundation.
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Game%20Development-00d2ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Japanese%20N3-Learning-ff69b4?style=for-the-badge"/>
+</p>
+
+### Future Learning Roadmap
+
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+</p>
+
+---
+
+# 🎮 Game Developer Roadmap
+
+```text
+[✓] HTML
+[✓] CSS
+[✓] JavaScript
+[✓] PHP
+[✓] Java
+[✓] MySQL
+[✓] J2SE
+[✓] J2EE
+[✓] ITPEC IP
+[✓] ITPEC FE
+[✓] Japanese N4
+
+[►] Lua
+[►] Roblox Studio
+[►] Japanese N3
+
+[○] C++
+[○] C#
+[○] Unity
+[○] Unreal Engine
+[○] Multiplayer Systems
+[○] Game Design
+[○] 3D Graphics Programming
+```
+
+---
+
+# 📂 Featured Projects
+
+## 🚨 The Scammer Alert
+
+A web platform designed to provide detailed information and reports about scammers to help users stay informed and protected.
+
+**Tech Stack:** HTML • PHP
+
+---
+
+## 🎴 PokeMemo
+
+A Pokémon-themed memory card game designed to provide simple and enjoyable gameplay for users of all ages.
+
+**Tech Stack:** JavaScript • PHP • HTML • CSS
+
+---
+
+## 🌌 Cosmic Blog
+
+A blogging platform that allows users to interact with content while giving administrators full management control.
+
+**Tech Stack:** PHP • MySQL • HTML • CSS
+
+---
+
+## ⚽ Online Stadium Renting System
+
+A stadium booking platform that enables users to view stadium availability and reserve football or futsal fields online.
+
+**Tech Stack:** Java • J2SE
+
+---
+
+## 🐍 Earth Creatures
+
+A community blogging platform focused on snakes and insects where users can create posts, comment, and interact while administrators manage the entire system.
+
+**Tech Stack:** J2EE • HTML • CSS • MySQL
+
+---
+
+# 🎬 Creative Skills
+
+### Video Editing
+
+- 🎥 CapCut
+- 🎞️ Learning Alight Motion
+- ✨ Anime Editing
+
+### TikTok Statistics
+
+- 🔥 20.5K+ Total Likes
+- 👥 256+ Followers
+- 🎬 Anime Edit Creator
+
+---
+
+# 🌎 Languages
+
+| Language | Level |
+|----------|--------|
+| 🇲🇲 Burmese | Native |
+| 🇬🇧 English | Conversational & Technical |
+| 🇯🇵 Japanese | N3 Learner (N4 Passed) |
+
+---
+
+# 🏆 Certifications
+
+- 🏅 ITPEC Information Technology Passport (IP)
+- 🏅 ITPEC Fundamental Information Technology Engineer (FE)
+- 🏅 Japanese N4 Passed
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-  <h3><i style="color: #00d2ff;">"Every expert was once a beginner."</i></h3>
-  <p>💻 Thank you for checking out my cyber space!</p>
-</div>  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/J2SE-007396?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
 
-### 🌱 Currently Exploring & Customizing
-<p align="left">
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox_Studio-002FA7?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Dev-Fundamentals-00d2ff?style=for-the-badge&logo=gamecontroller&logoColor=white" />
-  <img src="https://img.shields.io/badge/Japanese_N3-Learning-ff69b4?style=for-the-badge" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArKar119&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 🎯 Future Learning Horizon
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/GLSL-E65226?style=for-the-badge&logo=opengl&logoColor=white" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArKar119&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🚨 **The Scammer Alert** | A platform that helps users identify scammers through collected reports and evidence. | `HTML` `PHP` |
-| 🎴 **PokeMemo** | A Pokémon-themed memory card game designed for users of all ages. | `JavaScript` `PHP` `HTML` `CSS` |
-| 🌌 **Cosmic Blog** | A blog platform with complete content management features for both users and administrators. | `PHP` `MySQL` `HTML` `CSS` |
-| ⚽ **Online Stadium Renting** | A booking platform allowing users to check stadium availability and reserve football or futsal fields online. | `Java` `J2SE` |
-| 🐍 **Earth Creatures** | A real-world blogging platform focused on snake and insect species with complete community interactions. | `J2EE` `HTML` `CSS` `MySQL` |
-
----
-
-## 🎬 Creative Skills & TikTok Stats
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎥 Video Editing</h4>
-      <ul>
-        <li>CapCut (Proficient)</li>
-        <li>Alight Motion (Learning)</li>
-        <li>Anime Edit Creator</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 TikTok Analytics</h4>
-      <ul>
-        <li>🔥 <b style="color:#00d2ff;">20.5K+</b> Total Likes</li>
-        <li>👥 <b style="color:#00d2ff;">256+</b> Followers</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌎 Languages
-
-* **🇲🇲 Burmese:** Native
-* **🇬🇧 English:** Conversational & Technical
-* **🇯🇵 Japanese:** N3 Learner *(N4 Passed)*
-
----
-
-## 📊 Live System Activity & Streak Analytics
-
-<div align="center">
-  <!-- Dynamic Glowing Tracker System -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArKar119&theme=tokyonight&hide_border=true&stroke=00d2ff&background=001220&ring=00d2ff&fire=00d2ff" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArKar119&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&bg_color=001220" alt="GitHub Stats" />
 </div>
 
 ---
 
 <div align="center">
-  <h3><i style="color: #00d2ff;">"Every expert was once a beginner."</i></h3>
-  <p>💻 Thank you for checking out my cyber space!</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArKar119&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArKar119&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Mission
+
+> Build software today. Create games tomorrow.
+
+My goal is to become a professional game developer who combines creativity, programming, and problem-solving to create memorable experiences for players around the world.
+
+---
+
+<div align="center">
+
+## ⭐ Every expert was once a beginner.
+
+### Thanks for visiting my GitHub profile!
+
+💙 Software Engineer • 🎮 Future Game Developer • 🇲🇲 Myanmar
+
 </div>
