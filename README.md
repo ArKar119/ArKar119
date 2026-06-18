@@ -23,7 +23,6 @@
       <ul>
         <li>Attending the first year in the <b>E-Major class of Magway University</b>.</li>
         <li>Completed IT courses at <b style="color: #00d2ff;">Golden Mission Magway Education Center</b>.</li>
-        <li>Learning Japanese N3 Level</li>
       </ul>
       <p>🏆 <b>Certifications:</b></p>
       <ul>
@@ -33,7 +32,7 @@
       <p>🎮 <b>Ultimate Goal:</b> To become a <b>Professional Game Developer</b> by creating immersive experiences that connect players globally.</p>
     </td>
     <td width="45%" valign="center" align="center">
-      <!-- Fixed Language Stats Component with Glowing Dark Theme -->
+      <!-- Language Stats Component with Glowing Dark Theme -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArKar119&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&bg_color=001220" alt="Top Langs" width="100%" />
     </td>
   </tr>
@@ -67,8 +66,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-E65226?style=for-the-badge&logo=opengl&logoColor=white" />
 </p>
 
 ---
@@ -112,8 +111,8 @@
 ## 🌎 Languages
 
 * **🇲🇲 Burmese:** Native
-* **🇬🇧 English:** Advanced Level
-* **🇯🇵 Japanese:** N3 Learner *(N4 Nat-Test Passed)*
+* **🇬🇧 English:** Conversational & Technical
+* **🇯🇵 Japanese:** N3 Learner *(N4 Passed)*
 
 ---
 
